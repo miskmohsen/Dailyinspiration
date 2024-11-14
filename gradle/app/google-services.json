@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "912194704892",
+    "project_id": "daily-inspiration-314f5",
+    "storage_bucket": "daily-inspiration-314f5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:912194704892:android:c4f5162f0c4e13ee288e79",
+        "android_client_info": {
+          "package_name": "com.example.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAb2vInL6fzC0GhlZgdAP8ZfyjVqjao2t0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
