@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Dailyinspiration</string>
+    <string name="challenge_icon">אתגר</string>
+    <string name="mark_as_completed">סמן כהושלם</string>
+</resources>
